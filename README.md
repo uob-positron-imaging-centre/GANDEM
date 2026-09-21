@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/logo.png" alt="GAN-DEM logo" width="160">
+</p>
+
 # GAN-DEM
 
 GAN-DEM reconstructs statistically representative 3D particle geometries from
@@ -20,7 +24,7 @@ Python 3.10 or newer is required. Install from a clone for the version in this
 repository:
 
 ```bash
-git clone https://github.com/abhirup-roy/GAN-DEM.git
+git clone https://github.com/uob-positron-imaging-centre/GANDEM.git
 cd GAN-DEM
 python -m venv .venv
 source .venv/bin/activate  # Windows PowerShell: .venv\\Scripts\\Activate.ps1

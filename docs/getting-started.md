@@ -14,7 +14,7 @@ working off-screen graphics stack may be required by the local PyVista build.
 ## Install from this repository
 
 ```bash
-git clone https://github.com/abhirup-roy/GAN-DEM.git
+git clone https://github.com/uob-positron-imaging-centre/GANDEM.git
 cd GAN-DEM
 python -m venv .venv
 source .venv/bin/activate

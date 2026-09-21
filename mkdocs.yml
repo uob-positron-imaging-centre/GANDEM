@@ -1,11 +1,13 @@
 site_name: GAN-DEM
 site_description: AI-based workflow for reconstruction of 2D projections to 3D particles for DEM simulation.
 site_author: Abhirup Roy
-repo_url: https://github.com/abhirup-roy/GAN-DEM
-repo_name: abhirup-roy/GAN-DEM
+repo_url: https://github.com/uob-positron-imaging-centre/GANDEM
+repo_name: uob-positron-imaging-centre/GANDEM
 
 theme:
   name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -41,7 +43,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/abhirup-roy/GAN-DEM
+      link: https://github.com/uob-positron-imaging-centre/GANDEM
 
 extra_css:
   - stylesheets/extra.css
